@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+cSIDgMiBWYQvjITUHG+2tCUNxHJ4+gsT2+BSdGeT4kEMlgEUPZ2jB5e1nXRfdlraM34aTV0kxUa6BghckhAQ==",
+  "success": true,
+  "projectFilePath": "D:\\CSharpDev\\G-RnD\\Cen\\RnD\\RnD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasika.v\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

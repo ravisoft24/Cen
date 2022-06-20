@@ -1,0 +1,13 @@
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.exe
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.deps.json
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.runtimeconfig.json
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.runtimeconfig.dev.json
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.dll
+D:\CSharpDev\G-RnD\Cen\RnD\bin\Debug\netcoreapp3.1\RnD.pdb
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.AssemblyInfoInputs.cache
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.AssemblyInfo.cs
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.csproj.CoreCompileInputs.cache
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.dll
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.pdb
+D:\CSharpDev\G-RnD\Cen\RnD\obj\Debug\netcoreapp3.1\RnD.genruntimeconfig.cache
